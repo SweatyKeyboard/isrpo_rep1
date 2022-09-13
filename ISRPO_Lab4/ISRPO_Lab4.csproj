@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE8E86EF-F523-4345-BDA7-C2BE58A7F7E3}</ProjectGuid>
+    <ProjectGuid>{782279DE-FF6B-4599-B94B-3A06A437B297}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>ISRPO_Lab4</RootNamespace>
+    <AssemblyName>ISRPO_Lab4</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Angle.cs" />
+    <Compile Include="a_HotDrink.cs" />
+    <Compile Include="CupOfCoffee.cs" />
+    <Compile Include="CupOfTea.cs" />
+    <Compile Include="ICup.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
