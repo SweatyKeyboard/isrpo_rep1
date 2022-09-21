@@ -1,0 +1,14 @@
+C:\Users\429195-10\source\repos\Lab6A-1\Lab6A-1\bin\Debug\Lab6A-1.exe.config
+C:\Users\429195-10\source\repos\Lab6A-1\Lab6A-1\bin\Debug\Lab6A-1.exe
+C:\Users\429195-10\source\repos\Lab6A-1\Lab6A-1\bin\Debug\Lab6A-1.pdb
+C:\Users\429195-10\source\repos\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.csprojAssemblyReference.cache
+C:\Users\429195-10\source\repos\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.csproj.CoreCompileInputs.cache
+C:\Users\429195-10\source\repos\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.exe
+C:\Users\429195-10\source\repos\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.pdb
+H:\ISRPO\Lab6A-1\Lab6A-1\bin\Debug\Lab6A-1.exe.config
+H:\ISRPO\Lab6A-1\Lab6A-1\bin\Debug\Lab6A-1.exe
+H:\ISRPO\Lab6A-1\Lab6A-1\bin\Debug\Lab6A-1.pdb
+H:\ISRPO\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.csprojAssemblyReference.cache
+H:\ISRPO\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.csproj.CoreCompileInputs.cache
+H:\ISRPO\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.exe
+H:\ISRPO\Lab6A-1\Lab6A-1\obj\Debug\Lab6A-1.pdb

@@ -1,0 +1,15 @@
+H:\ISRPO\Lab6B-1\Lab6B-1\bin\Debug\Lab6B-1.exe.config
+H:\ISRPO\Lab6B-1\Lab6B-1\bin\Debug\Lab6B-1.exe
+H:\ISRPO\Lab6B-1\Lab6B-1\bin\Debug\Lab6B-1.pdb
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1.csprojAssemblyReference.cache
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\MainWindow.g.cs
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\App.g.cs
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1_MarkupCompile.cache
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1_MarkupCompile.lref
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\MainWindow.baml
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1.g.resources
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B_1.Properties.Resources.resources
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1.csproj.GenerateResource.cache
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1.csproj.CoreCompileInputs.cache
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1.exe
+H:\ISRPO\Lab6B-1\Lab6B-1\obj\Debug\Lab6B-1.pdb
