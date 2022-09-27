@@ -1,7 +1,0 @@
-﻿ISRPO_Lab2.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl complex::complex(double,double)" (??0complex@@QEAA@NN@Z) в функции main.
-ISRPO_Lab2.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl complex::get_value(void)" (?get_value@complex@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции main.
-ISRPO_Lab2.obj : error LNK2019: ссылка на неразрешенный внешний символ "class complex __cdecl operator+(class complex,class complex)" (??H@YA?AVcomplex@@V0@0@Z) в функции main.
-ISRPO_Lab2.obj : error LNK2019: ссылка на неразрешенный внешний символ "class complex __cdecl operator-(class complex,class complex)" (??G@YA?AVcomplex@@V0@0@Z) в функции main.
-ISRPO_Lab2.obj : error LNK2019: ссылка на неразрешенный внешний символ "class complex __cdecl operator*(class complex,class complex)" (??D@YA?AVcomplex@@V0@0@Z) в функции main.
-ISRPO_Lab2.obj : error LNK2019: ссылка на неразрешенный внешний символ "class complex __cdecl operator/(class complex,class complex)" (??K@YA?AVcomplex@@V0@0@Z) в функции main.
-C:\Users\Viktor\source\repos\cmake_build\ISRPO_Lab2\Debug\program.exe : fatal error LNK1120: неразрешенных внешних элементов: 6

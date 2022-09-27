@@ -1,4 +1,4 @@
-C:/Users/Viktor/source/repos/cmake_build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Viktor/source/repos/cmake_build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Viktor/source/repos/cmake_build/ISRPO_Lab2/CMakeFiles/complex.dir
-C:/Users/Viktor/source/repos/cmake_build/ISRPO_Lab2/CMakeFiles/program.dir
+K:/isrpo_rep1/cmake_build/CMakeFiles/ALL_BUILD.dir
+K:/isrpo_rep1/cmake_build/CMakeFiles/ZERO_CHECK.dir
+K:/isrpo_rep1/cmake_build/ISRPO_Lab2/CMakeFiles/complex.dir
+K:/isrpo_rep1/cmake_build/Main/CMakeFiles/main.dir

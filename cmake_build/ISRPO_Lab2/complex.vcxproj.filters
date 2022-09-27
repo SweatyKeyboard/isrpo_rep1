@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Viktor\source\repos\ISRPO_Lab2\ISRPO_Lab2\complex.cpp">
+    <ClCompile Include="K:\isrpo_rep1\ISRPO_Lab2\ISRPO_Lab2\complex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Viktor\source\repos\ISRPO_Lab2\ISRPO_Lab2\complex.h">
+    <ClInclude Include="K:\isrpo_rep1\ISRPO_Lab2\ISRPO_Lab2\complex.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Viktor\source\repos\ISRPO_Lab2\ISRPO_Lab2\CMakeLists.txt" />
+    <CustomBuild Include="K:\isrpo_rep1\ISRPO_Lab2\ISRPO_Lab2\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{D52AF862-1170-3EAF-882A-4D1187B9385C}</UniqueIdentifier>
+      <UniqueIdentifier>{E93153D1-20A3-3024-8698-340985A2076B}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{0B185706-256B-37B7-9C3F-F47F5D7E3F6B}</UniqueIdentifier>
+      <UniqueIdentifier>{A6A39A70-0709-323B-8301-F2A35E2D337D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

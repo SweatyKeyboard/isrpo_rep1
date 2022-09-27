@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Viktor/source/repos/ISRPO_Lab2
+# Install script for directory: K:/isrpo_rep1/ISRPO_Lab2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Viktor/source/repos/cmake_build/ISRPO_Lab2/cmake_install.cmake")
+  include("K:/isrpo_rep1/cmake_build/ISRPO_Lab2/cmake_install.cmake")
+  include("K:/isrpo_rep1/cmake_build/Main/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +47,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Viktor/source/repos/cmake_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "K:/isrpo_rep1/cmake_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

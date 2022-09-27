@@ -1,6 +1,6 @@
-^C:\USERS\VIKTOR\SOURCE\REPOS\CMAKE_BUILD\CMAKEFILES\067AEDC1005A22754C9D5212CB0AF62A\GENERATE.STAMP.RULE
+^K:\ISRPO_REP1\CMAKE_BUILD\CMAKEFILES\8402301F36457EED321996DBA5037563\GENERATE.STAMP.RULE
 setlocal
-C:\Users\Viktor\Desktop\cmake-3.24.2-windows-x86_64\bin\cmake.exe -SC:/Users/Viktor/source/repos/ISRPO_Lab2 -BC:/Users/Viktor/source/repos/cmake_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Viktor/source/repos/cmake_build/proj.sln
+C:\Users\Viktor\Desktop\cmake-3.24.2-windows-x86_64\bin\cmake.exe -SK:/isrpo_rep1/ISRPO_Lab2 -BK:/isrpo_rep1/cmake_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file K:/isrpo_rep1/cmake_build/proj.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

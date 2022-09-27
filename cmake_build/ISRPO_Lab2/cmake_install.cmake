@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Viktor/source/repos/ISRPO_Lab2/ISRPO_Lab2
+# Install script for directory: K:/isrpo_rep1/ISRPO_Lab2/ISRPO_Lab2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
