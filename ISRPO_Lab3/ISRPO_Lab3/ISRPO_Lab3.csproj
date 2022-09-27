@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <PackageId>ISRPO_Lab3</PackageId>
+	  <Version>1.2.3</Version>
+	  <Authors>Klimenkov Viktor</Authors>
+	  <Company>Klimenkov Viktor Co</Company>
+  </PropertyGroup>
+
+</Project>
