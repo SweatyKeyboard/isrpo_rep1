@@ -1,0 +1,10 @@
+^C:\USERS\VIKTOR\SOURCE\REPOS\ISRPO_LAB2\ISRPO_LAB2\CMAKELISTS.TXT
+setlocal
+C:\Users\Viktor\Desktop\cmake-3.24.2-windows-x86_64\bin\cmake.exe -SC:/Users/Viktor/source/repos/ISRPO_Lab2 -BC:/Users/Viktor/source/repos/cmake_build --check-stamp-file C:/Users/Viktor/source/repos/cmake_build/ISRPO_Lab2/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
