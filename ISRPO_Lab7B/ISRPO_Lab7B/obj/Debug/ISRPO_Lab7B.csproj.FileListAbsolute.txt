@@ -1,0 +1,15 @@
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\bin\Debug\ISRPO_Lab7B.exe.config
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\bin\Debug\ISRPO_Lab7B.exe
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\bin\Debug\ISRPO_Lab7B.pdb
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B.csprojAssemblyReference.cache
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\MainWindow.g.cs
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\App.g.cs
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B_MarkupCompile.cache
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B_MarkupCompile.lref
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\MainWindow.baml
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B.g.resources
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B.Properties.Resources.resources
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B.csproj.GenerateResource.cache
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B.csproj.CoreCompileInputs.cache
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B.exe
+C:\Users\429195-10\source\repos\ISRPO_Lab7B\ISRPO_Lab7B\obj\Debug\ISRPO_Lab7B.pdb
