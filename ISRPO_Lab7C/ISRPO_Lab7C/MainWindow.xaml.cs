@@ -20,9 +20,15 @@ namespace ISRPO_Lab7C
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        private const int _clippingSize = 5;
+
+        private Point _firstPoint = new Point(999,999);
         private Point _currentPoint;
         private Point _lastPoint;
         private List<Line> lines = new List<Line>();
+
+        private bool _isDrawing = true;
 
         /*private Ellipse circle = new Ellipse
         {
@@ -37,7 +43,11 @@ namespace ISRPO_Lab7C
 
         private void DrawpPoint(MouseButtonEventArgs e)
         {
-            _currentPoint = e.GetPosition(canvas);            
+            _currentPoint = e.GetPosition(canvas);
+            if (_firstPoint.X == 999 && _firstPoint.Y == 999)
+            {
+                _firstPoint = e.GetPosition(canvas);
+            }
         }
 
         private void DrawLine(MouseButtonEventArgs e)
@@ -47,8 +57,9 @@ namespace ISRPO_Lab7C
 
             Line line = new Line
             {
-                Stroke = new SolidColorBrush(Color.FromRgb(0, 0, 0))
-        };
+                Stroke = new SolidColorBrush(Color.FromRgb(0, 0, 0)),
+                StrokeThickness = 3
+            };
             line.X1 = _lastPoint.X;
             line.X2 = _currentPoint.X;
             line.Y1 = _lastPoint.Y;
@@ -57,17 +68,29 @@ namespace ISRPO_Lab7C
             lines.Add(line);
 
             canvas.Children.Add(line);
+
+            if (Math.Abs(_currentPoint.X - _firstPoint.X) < _clippingSize && Math.Abs(_currentPoint.Y - _firstPoint.Y) < _clippingSize)
+            {
+                foreach (Line colorLine in lines)
+                {
+                    colorLine.Stroke = new SolidColorBrush(Color.FromRgb(50, 50, 150));
+                }
+                _isDrawing = false;
+            }
         }
 
         private void Window_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            if (_currentPoint.X != 0 && _currentPoint.Y != 0)
+            if (_isDrawing)
             {
-                DrawLine(e);
-            }
-            else
-            {
-                DrawpPoint(e);
+                if (_currentPoint.X != 0 && _currentPoint.Y != 0)
+                {
+                    DrawLine(e);
+                }
+                else
+                {
+                    DrawpPoint(e);
+                }
             }
         }
     }

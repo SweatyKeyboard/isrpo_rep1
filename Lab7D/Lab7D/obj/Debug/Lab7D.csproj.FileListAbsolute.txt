@@ -1,0 +1,15 @@
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\bin\Debug\Lab7D.exe.config
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\bin\Debug\Lab7D.exe
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\bin\Debug\Lab7D.pdb
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D.csprojAssemblyReference.cache
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\MainWindow.g.cs
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\App.g.cs
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D_MarkupCompile.cache
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D_MarkupCompile.lref
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\MainWindow.baml
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D.g.resources
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D.Properties.Resources.resources
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D.csproj.GenerateResource.cache
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D.csproj.CoreCompileInputs.cache
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D.exe
+C:\Users\429195-10\source\repos\Lab7D\Lab7D\obj\Debug\Lab7D.pdb
