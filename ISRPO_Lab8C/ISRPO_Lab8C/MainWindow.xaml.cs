@@ -69,7 +69,10 @@ namespace ISRPO_Lab8C
                 }
                 else
                 {
-                    _firstNumber += value / Math.Pow(10, -(_firstNumber.ToString().Substring(_firstNumber.ToString().IndexOf(','))).Length);
+                    string helper = (_firstNumber.ToString().IndexOf(',') != -1)
+                        ? _firstNumber.ToString().Substring(_firstNumber.ToString().IndexOf(','))
+                        : "*";
+                    _firstNumber += value / Math.Pow(10, helper.Length);
                 }
                 tbAns.Text = _firstNumber.ToString();
             }
@@ -82,7 +85,10 @@ namespace ISRPO_Lab8C
                 }
                 else
                 {
-                    _secondNumber += value / Math.Pow(10, -_secondNumber.ToString().Substring(_secondNumber.ToString().IndexOf('.')).Length);
+                    string helper = (_secondNumber.ToString().IndexOf(',') != -1)
+                        ? _secondNumber.ToString().Substring(_secondNumber.ToString().IndexOf(','))
+                        : "*";
+                    _secondNumber += value / Math.Pow(10, helper.Length);
                 }
                 tbAns.Text = _firstNumber + " " + GetOperationSign(_operation) + " " + _secondNumber;
             }
