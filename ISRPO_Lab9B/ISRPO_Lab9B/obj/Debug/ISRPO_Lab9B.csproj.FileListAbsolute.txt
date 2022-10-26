@@ -1,0 +1,15 @@
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\bin\Debug\ISRPO_Lab9B.exe.config
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\bin\Debug\ISRPO_Lab9B.exe
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\bin\Debug\ISRPO_Lab9B.pdb
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B.csprojAssemblyReference.cache
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\MainWindow.g.cs
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\App.g.cs
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B_MarkupCompile.cache
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B_MarkupCompile.lref
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\MainWindow.baml
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B.g.resources
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B.Properties.Resources.resources
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B.csproj.GenerateResource.cache
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B.csproj.CoreCompileInputs.cache
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B.exe
+C:\Temp\ISRPO_Lab9B\ISRPO_Lab9B\obj\Debug\ISRPO_Lab9B.pdb
