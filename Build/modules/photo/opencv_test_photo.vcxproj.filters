@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\ocl\test_denoising.cpp">
+      <Filter>Src\ocl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_cloning.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_decolor.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_denoise_tvl1.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_denoising.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_denoising.cuda.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_hdr.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_inpaint.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_main.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_npr.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\Build\modules\photo\opencv_test_photo_pch.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\test\test_precomp.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\photo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{6036EA74-A17F-35E1-AAA5-10E6C620BCD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{7CC0F78A-E301-3F85-B5BD-E9AD03FB04BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\ocl">
+      <UniqueIdentifier>{07315FA8-25CE-3F0B-A3CB-0C407F9509B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

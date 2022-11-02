@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckFunctionExists.c
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckFunctionExists.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFile.c.in
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckTypeSize.c.in
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckTypeSize.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/429195-10/Desktop/Build/CMakeFiles/CheckTypeSize/OFF64_T.c
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/zlib/CMakeLists.txt

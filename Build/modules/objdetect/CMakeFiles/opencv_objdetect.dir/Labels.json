@@ -1,0 +1,174 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/include/opencv2/objdetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/include/opencv2/objdetect/objdetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/cascadedetect.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/cascadedetect_convert.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/detection_based_tracker.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/hog.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/qrcode.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/opencl/cascadedetect.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/opencl/objdetect_hog.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/modules/objdetect/opencl_kernels_objdetect.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/modules/objdetect/opencl_kernels_objdetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/cascadedetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/opencv-4.5.3/modules/objdetect/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/cvconfig.h"
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/modules/objdetect/opencv_objdetect_pch.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_objdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/modules/objdetect/vs_version.rc"
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/modules/objdetect/opencv_objdetect_main.cpp"
+		},
+		{
+			"file" : "C:/Users/429195-10/Desktop/Build/CMakeFiles/7d51bd339065d29b207e4d9a1a7ac794/opencl_kernels_objdetect.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_objdetect",
+			"Module"
+		],
+		"name" : "opencv_objdetect"
+	}
+}

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_common.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_grfmt.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_jpeg.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_main.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_png.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_read_write.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_tiff.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_webp.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\429195-10\Desktop\Build\modules\imgcodecs\opencv_test_imgcodecs_pch.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_common.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_exr.impl.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\test\test_precomp.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\429195-10\Desktop\opencv-4.5.3\modules\imgcodecs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{6036EA74-A17F-35E1-AAA5-10E6C620BCD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{7CC0F78A-E301-3F85-B5BD-E9AD03FB04BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,360 @@
+#use_cache "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache"
+#do_unpack "ippicv_2020_win_intel64_20191018_general.zip" "879741a7946b814455eee6c6ffde2984" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/a56b6ac6f030c312b2dce17430eef13aed9af274/ippicv/ippicv_2020_win_intel64_20191018_general.zip" "C:/Users/429195-10/Desktop/Build/3rdparty/ippicv"
+#cmake_download "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ippicv/879741a7946b814455eee6c6ffde2984-ippicv_2020_win_intel64_20191018_general.zip" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/a56b6ac6f030c312b2dce17430eef13aed9af274/ippicv/ippicv_2020_win_intel64_20191018_general.zip"
+#try 1
+#check_md5 "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ippicv/879741a7946b814455eee6c6ffde2984-ippicv_2020_win_intel64_20191018_general.zip"
+#mkdir "C:/Users/429195-10/Desktop/Build/3rdparty/ippicv"
+#unpack "C:/Users/429195-10/Desktop/Build/3rdparty/ippicv" "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ippicv/879741a7946b814455eee6c6ffde2984-ippicv_2020_win_intel64_20191018_general.zip"
+#do_unpack "v0.1.1f.zip" "b624b995ec9c439cbc2e9e6ee940d3a2" "https://github.com/opencv/ade/archive/v0.1.1f.zip" "C:/Users/429195-10/Desktop/Build/3rdparty/ade"
+#cmake_download "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ade/b624b995ec9c439cbc2e9e6ee940d3a2-v0.1.1f.zip" "https://github.com/opencv/ade/archive/v0.1.1f.zip"
+#try 1
+# timeout on name lookup is not supported
+#   Trying 140.82.121.3:443...
+# Connected to github.com (140.82.121.3) port 443 (#0)
+# schannel: disabled automatic use of client certificate
+# ALPN: offers h2
+# ALPN: offers http/1.1
+# ALPN: server accepted h2
+# Using HTTP2, server supports multiplexing
+# Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+# h2h3 [:method: GET]
+# h2h3 [:path: /opencv/ade/archive/v0.1.1f.zip]
+# h2h3 [:scheme: https]
+# h2h3 [:authority: github.com]
+# h2h3 [user-agent: curl/7.83.1]
+# h2h3 [accept: */*]
+# Using Stream ID: 1 (easy handle 0x1b984d86f50)
+# GET /opencv/ade/archive/v0.1.1f.zip HTTP/2
+# Host: github.com
+# user-agent: curl/7.83.1
+# accept: */*
+# 
+# HTTP/2 302 
+# server: GitHub.com
+# date: Wed, 02 Nov 2022 06:44:59 GMT
+# content-type: text/html; charset=utf-8
+# vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+# location: https://codeload.github.com/opencv/ade/zip/refs/tags/v0.1.1f
+# cache-control: max-age=0, private
+# strict-transport-security: max-age=31536000; includeSubdomains; preload
+# x-frame-options: deny
+# x-content-type-options: nosniff
+# x-xss-protection: 0
+# referrer-policy: no-referrer-when-downgrade
+# content-security-policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com identicons.github.com github-cloud.s3.amazonaws.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+# content-length: 0
+# x-github-request-id: D22C:FB8D:11A91CF:1252E8C:636211F7
+# 
+# [0 bytes data]
+# Connection #0 to host github.com left intact
+# Issue another request to this URL: 'https://codeload.github.com/opencv/ade/zip/refs/tags/v0.1.1f'
+# timeout on name lookup is not supported
+#   Trying 140.82.121.10:443...
+# Connected to codeload.github.com (140.82.121.10) port 443 (#1)
+# schannel: disabled automatic use of client certificate
+# ALPN: offers h2
+# ALPN: offers http/1.1
+# ALPN: server accepted h2
+# Using HTTP2, server supports multiplexing
+# Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+# h2h3 [:method: GET]
+# h2h3 [:path: /opencv/ade/zip/refs/tags/v0.1.1f]
+# h2h3 [:scheme: https]
+# h2h3 [:authority: codeload.github.com]
+# h2h3 [user-agent: curl/7.83.1]
+# h2h3 [accept: */*]
+# Using Stream ID: 1 (easy handle 0x1b984d86f50)
+# GET /opencv/ade/zip/refs/tags/v0.1.1f HTTP/2
+# Host: codeload.github.com
+# user-agent: curl/7.83.1
+# accept: */*
+# 
+# HTTP/2 200 
+# access-control-allow-origin: https://render.githubusercontent.com
+# content-disposition: attachment; filename=ade-0.1.1f.zip
+# content-length: 166594
+# content-security-policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+# content-type: application/zip
+# etag: "d6c62c0c3b4dc6059be5fd41ab24d5e0b5d7968e0563d1c2f0e56f27d0f4a57f"
+# strict-transport-security: max-age=31536000
+# vary: Authorization,Accept-Encoding,Origin
+# x-content-type-options: nosniff
+# x-frame-options: deny
+# x-xss-protection: 1; mode=block
+# date: Wed, 02 Nov 2022 06:45:11 GMT
+# x-github-request-id: D22D:A2D6:1094F4:14414B:636211F7
+# 
+# [512 bytes data]
+# [1370 bytes data]
+# [1361 bytes data]
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# [1379 bytes data]
+# [1361 bytes data]
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [2740 bytes data]
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1323 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1361 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1435 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1361 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1323 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1361 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [2740 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1323 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1361 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1323 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1361 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [1370 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [10960 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [13588 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [8164 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [6850 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [6803 bytes data]
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# schannel: failed to decrypt data, need more data
+# [16384 bytes data]
+# [2731 bytes data]
+# schannel: failed to decrypt data, need more data
+# [2740 bytes data]
+# schannel: failed to decrypt data, need more data
+# [7619 bytes data]
+# Connection #1 to host codeload.github.com left intact
+# 
+
+#check_md5 "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ade/b624b995ec9c439cbc2e9e6ee940d3a2-v0.1.1f.zip"
+#mkdir "C:/Users/429195-10/Desktop/Build/3rdparty/ade"
+#unpack "C:/Users/429195-10/Desktop/Build/3rdparty/ade" "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ade/b624b995ec9c439cbc2e9e6ee940d3a2-v0.1.1f.zip"
+#do_copy "opencv_videoio_ffmpeg.dll" "bab661341c30862fa88627130219c0a5" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/opencv_videoio_ffmpeg.dll" "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg"
+#missing "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg/opencv_videoio_ffmpeg.dll"
+#cmake_download "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/bab661341c30862fa88627130219c0a5-opencv_videoio_ffmpeg.dll" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/opencv_videoio_ffmpeg.dll"
+#try 1
+#check_md5 "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/bab661341c30862fa88627130219c0a5-opencv_videoio_ffmpeg.dll"
+#copy "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg/opencv_videoio_ffmpeg.dll" "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/bab661341c30862fa88627130219c0a5-opencv_videoio_ffmpeg.dll"
+#do_copy "opencv_videoio_ffmpeg_64.dll" "ac99f9767a83103c31709628af685924" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/opencv_videoio_ffmpeg_64.dll" "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg"
+#missing "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg/opencv_videoio_ffmpeg_64.dll"
+#cmake_download "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/ac99f9767a83103c31709628af685924-opencv_videoio_ffmpeg_64.dll" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/opencv_videoio_ffmpeg_64.dll"
+#try 1
+#check_md5 "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/ac99f9767a83103c31709628af685924-opencv_videoio_ffmpeg_64.dll"
+#copy "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg/opencv_videoio_ffmpeg_64.dll" "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/ac99f9767a83103c31709628af685924-opencv_videoio_ffmpeg_64.dll"
+#do_copy "ffmpeg_version.cmake" "8862c87496e2e8c375965e1277dee1c7" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/ffmpeg_version.cmake" "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg"
+#missing "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg/ffmpeg_version.cmake"
+#cmake_download "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/8862c87496e2e8c375965e1277dee1c7-ffmpeg_version.cmake" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/ffmpeg_version.cmake"
+#try 1
+# timeout on name lookup is not supported
+#   Trying 185.199.111.133:443...
+# Connected to raw.githubusercontent.com (185.199.111.133) port 443 (#0)
+# schannel: disabled automatic use of client certificate
+# ALPN: offers h2
+# ALPN: offers http/1.1
+# ALPN: server accepted h2
+# Using HTTP2, server supports multiplexing
+# Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+# h2h3 [:method: GET]
+# h2h3 [:path: /opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/ffmpeg_version.cmake]
+# h2h3 [:scheme: https]
+# h2h3 [:authority: raw.githubusercontent.com]
+# h2h3 [user-agent: curl/7.83.1]
+# h2h3 [accept: */*]
+# Using Stream ID: 1 (easy handle 0x1b9844df5b0)
+# GET /opencv/opencv_3rdparty/213fcd5d4897319a83207406036c4a5957fba010/ffmpeg/ffmpeg_version.cmake HTTP/2
+# Host: raw.githubusercontent.com
+# user-agent: curl/7.83.1
+# accept: */*
+# 
+# HTTP/2 200 
+# cache-control: max-age=300
+# content-security-policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+# content-type: text/plain; charset=utf-8
+# etag: "fa5c2d2566a9e9cb5c0f40f5e54addc1e8fbb92669597f6694da5879cf972785"
+# strict-transport-security: max-age=31536000
+# x-content-type-options: nosniff
+# x-frame-options: deny
+# x-xss-protection: 1; mode=block
+# x-github-request-id: 1A0E:0ECF:F36978:105904B:6362120B
+# accept-ranges: bytes
+# date: Wed, 02 Nov 2022 06:45:31 GMT
+# via: 1.1 varnish
+# x-served-by: cache-hhn4061-HHN
+# x-cache: MISS
+# x-cache-hits: 0
+# x-timer: S1667371532.614579,VS0,VE160
+# vary: Authorization,Accept-Encoding,Origin
+# access-control-allow-origin: *
+# x-fastly-request-id: d8ccfb602ebb1fd18830cbba04900f5edb5fcca5
+# expires: Wed, 02 Nov 2022 06:50:31 GMT
+# source-age: 0
+# content-length: 362
+# 
+# [362 bytes data]
+# Connection #0 to host raw.githubusercontent.com left intact
+# 
+
+#check_md5 "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/8862c87496e2e8c375965e1277dee1c7-ffmpeg_version.cmake"
+#copy "C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg/ffmpeg_version.cmake" "C:/Users/429195-10/Desktop/opencv-4.5.3/.cache/ffmpeg/8862c87496e2e8c375965e1277dee1c7-ffmpeg_version.cmake"

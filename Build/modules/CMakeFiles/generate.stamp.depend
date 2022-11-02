@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFile.c.in
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/FindPackageMessage.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/FindPkgConfig.cmake
+C:/Users/429195-10/Desktop/Build/3rdparty/ffmpeg/ffmpeg_version.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/ffmpeg/ffmpeg.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/cmake/checks/win32uitest.cpp
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/CMakeLists.txt
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/gapi/cmake/DownloadADE.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/gapi/cmake/init.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/highgui/cmake/detect_win32ui.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/highgui/cmake/init.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/videoio/cmake/detect_dc1394.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/videoio/cmake/detect_dshow.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/videoio/cmake/detect_ffmpeg.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/videoio/cmake/detect_gstreamer.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/videoio/cmake/detect_msmf.cmake
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/videoio/cmake/init.cmake

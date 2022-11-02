@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CMakeConfigurableFile.in
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFile.c.in
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFiles.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckSymbolExists.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/TestBigEndian.cmake
+C:/Users/429195-10/Desktop/Build/CMakeFiles/CheckIncludeFiles/OPJ_HAVE_MALLOC_H.c
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/openjpeg/CMakeLists.txt
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/openjpeg/openjp2/opj_config.h.cmake.in
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/openjpeg/openjp2/opj_config_private.h.cmake.in

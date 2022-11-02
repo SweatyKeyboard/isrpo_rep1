@@ -1,0 +1,315 @@
+Determining if the function fseeko exists failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_9dc62.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9dc62.dir\Debug\\" /Fd"cmTC_9dc62.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ббл«Є  ­  ­Ґа §аҐиҐ­­л© ў­Ґи­Ё© бЁ¬ў®« fseeko ў дг­ЄжЁЁ main. [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_9dc62.vcxproj]
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_9dc62.exe : fatal error LNK1120: ­Ґа §аҐиҐ­­ле ў­Ґи­Ёе н«Ґ¬Ґ­в®ў: 1 [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_9dc62.vcxproj]
+
+
+
+Determining size of off64_t failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_042a4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  OFF64_T.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_042a4.dir\Debug\\" /Fd"cmTC_042a4.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\OFF64_T.c"
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\OFF64_T.c(29,12): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_042a4.vcxproj]
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\OFF64_T.c(30,12): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_042a4.vcxproj]
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\OFF64_T.c(31,12): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_042a4.vcxproj]
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\OFF64_T.c(32,12): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_042a4.vcxproj]
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\OFF64_T.c(33,12): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_042a4.vcxproj]
+
+
+C:/Users/429195-10/Desktop/Build/CMakeFiles/CheckTypeSize/OFF64_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(off64_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function memmove exists failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_ae612.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=memmove /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ae612.dir\Debug\\" /Fd"cmTC_ae612.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c(7,3): warning C4391: char memmove(void): ­ҐЇа ўЁ«м­л© ў®§ўа й Ґ¬л© вЁЇ ¤«п Ї®¤бв ў«пҐ¬®© дг­ЄжЁЁ; ваҐЎгҐвбп "void" [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_ae612.vcxproj]
+\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c(7,3): warning C4392: char memmove(void): ­ҐЇа ўЁ«м­л© ­ Ў®а  аЈг¬Ґ­в®ў ¤«п Ї®¤бв ў«пҐ¬®© дг­ЄжЁЁ; ваҐЎгҐвбп  аЈг¬Ґ­в®ў: "3" [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_ae612.vcxproj]
+\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c(17,24): error C2168: memmove: б«ЁиЄ®¬ ¬ «® д ЄвЁзҐбЄЁе Ї а ¬Ґва®ў ¤«п Ї®¤бв ў«пҐ¬®© дг­ЄжЁЁ [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_ae612.vcxproj]
+
+
+
+Determining if the function strcasecmp exists failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_30127.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=strcasecmp /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_30127.dir\Debug\\" /Fd"cmTC_30127.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ббл«Є  ­  ­Ґа §аҐиҐ­­л© ў­Ґи­Ё© бЁ¬ў®« strcasecmp ў дг­ЄжЁЁ main. [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_30127.vcxproj]
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_30127.exe : fatal error LNK1120: ­Ґа §аҐиҐ­­ле ў­Ґи­Ёе н«Ґ¬Ґ­в®ў: 1 [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_30127.vcxproj]
+
+
+
+Build output check failed:
+    Regex: 'warning D9002'
+    Output line: 'cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-std=c99" [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_76fe0.vcxproj]'
+Compilation failed:
+    source file: 'C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp/src.c'
+    check option: ' /DWIN32 /D_WINDOWS /W3  /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /Gy /bigobj /Oi  /fp:precise     /MP -std=c99'
+===== BUILD LOG =====
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_76fe0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  src.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_76fe0.dir\Debug\\" /Fd"cmTC_76fe0.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj /bigobj -std=c99 "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\src.c"
+cl : Є®¬ ­¤­ п бва®Є  warning D9002: Їа®ЇгбЄ ­ҐЁ§ўҐбв­®Ј® Ї а ¬Ґва  "-std=c99" [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_76fe0.vcxproj]
+  cmTC_76fe0.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_76fe0.exe
+
+
+===== END =====
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_e324b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e324b.dir\Debug\\" /Fd"cmTC_e324b.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: strings.h: No such file or directory, [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_e324b.vcxproj]
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_4176e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4176e.dir\Debug\\" /Fd"cmTC_4176e.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: unistd.h: No such file or directory, [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_4176e.vcxproj]
+
+
+
+Determining if the posix_memalign exist failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_3adb5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckSymbolExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D _POSIX_C_SOURCE=200112L /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3adb5.dir\Debug\\" /Fd"cmTC_3adb5.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,33): error C2065: posix_memalign: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_3adb5.vcxproj]
+
+
+File C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef posix_memalign
+  return ((int*)(&posix_memalign))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the memalign exist failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_fa62f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckSymbolExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fa62f.dir\Debug\\" /Fd"cmTC_fa62f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,27): error C2065: memalign: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_fa62f.vcxproj]
+
+
+File C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef memalign
+  return ((int*)(&memalign))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_a387b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  src.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a387b.dir\Debug\\" /Fd"cmTC_a387b.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\src.c"
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\src.c(1,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: pthread.h: No such file or directory, [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_a387b.vcxproj]
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_74a05.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_74a05.dir\Debug\\" /Fd"cmTC_74a05.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthreads.lib" [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_74a05.vcxproj]
+
+
+
+Determining if the function pthread_create exists in the pthread failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_1bc64.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1bc64.dir\Debug\\" /Fd"cmTC_1bc64.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+LINK : fatal error LNK1104: ­Ґ г¤ Ґвбп ®вЄалвм д ©« "pthread.lib" [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_1bc64.vcxproj]
+
+
+
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_e1e1b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e1e1b.dir\Debug\\" /Fd"cmTC_e1e1b.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: ббл«Є  ­  ­Ґа §аҐиҐ­­л© ў­Ґи­Ё© бЁ¬ў®« sgemm_ ў дг­ЄжЁЁ main. [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_e1e1b.vcxproj]
+C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_e1e1b.exe : fatal error LNK1120: ­Ґа §аҐиҐ­­ле ў­Ґи­Ёе н«Ґ¬Ґ­в®ў: 1 [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_e1e1b.vcxproj]
+
+
+
+Performing C SOURCE FILE Test JNI_INCLUDE_PATH2_OPTIONAL failed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_8a1b2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  src.c
+  cl /c /I"C:\Program Files\Java\jdk1.8.0_202\include" /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D JNI_INCLUDE_PATH2_OPTIONAL /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8a1b2.dir\Debug\\" /Fd"cmTC_8a1b2.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\src.c"
+C:\Program Files\Java\jdk1.8.0_202\include\jni.h(45,10): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: jni_md.h: No such file or directory, [C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\cmTC_8a1b2.vcxproj]
+
+
+Source file was:
+
+#include <jni.h>
+int main(void) { return 0; }
+

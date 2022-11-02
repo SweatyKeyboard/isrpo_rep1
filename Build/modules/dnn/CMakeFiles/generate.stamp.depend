@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/429195-10/Desktop/opencv-4.5.3/cmake/templates/dllmain.cpp.in
+C:/Users/429195-10/Desktop/opencv-4.5.3/cmake/templates/vs_version.rc.in
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/dnn/CMakeLists.txt
+C:/Users/429195-10/Desktop/opencv-4.5.3/modules/dnn/cmake/hooks/INIT_MODULE_SOURCES_opencv_dnn.cmake

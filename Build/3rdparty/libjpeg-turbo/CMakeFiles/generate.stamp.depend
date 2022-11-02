@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CMakeConfigurableFile.in
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckIncludeFiles.cmake
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckTypeSize.c.in
+//fs-ispo/uvc/stud/429195/429195_10/ISRPO/cmake-3.24.1-windows-x86_64/cmake-3.24.1-windows-x86_64/share/cmake-3.24/Modules/CheckTypeSize.cmake
+C:/Users/429195-10/Desktop/Build/CMakeFiles/CheckIncludeFiles/HAVE_INTRIN_H.c
+C:/Users/429195-10/Desktop/Build/CMakeFiles/CheckTypeSize/SIZEOF_SIZE_T.c
+C:/Users/429195-10/Desktop/Build/CMakeFiles/CheckTypeSize/SIZEOF_UNSIGNED_LONG.c
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/libjpeg-turbo/CMakeLists.txt
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/libjpeg-turbo/jconfig.h.win.in
+C:/Users/429195-10/Desktop/opencv-4.5.3/3rdparty/libjpeg-turbo/jconfigint.h.in

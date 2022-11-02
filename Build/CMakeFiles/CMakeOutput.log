@@ -1,0 +1,843 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  02.11.2022 9:46:39.
+Џа®ҐЄв "C:\Users\429195-10\Desktop\Build\CMakeFiles\3.24.1\CompilerIdCXX\CompilerIdCXX.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\3.24.1\CompilerIdCXX\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  ” ©« "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\429195-10\Desktop\Build\CMakeFiles\3.24.1\CompilerIdCXX\CompilerIdCXX.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.29
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/429195-10/Desktop/Build/CMakeFiles/3.24.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  02.11.2022 9:46:42.
+Џа®ҐЄв "C:\Users\429195-10\Desktop\Build\CMakeFiles\3.24.1\CompilerIdC\CompilerIdC.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "Debug\CompilerIdC.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\3.24.1\CompilerIdC\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  ” ©« "Debug\CompilerIdC.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\429195-10\Desktop\Build\CMakeFiles\3.24.1\CompilerIdC\CompilerIdC.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.70
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/429195-10/Desktop/Build/CMakeFiles/3.24.1/CompilerIdC/CompilerIdC.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_31251.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CMakeCXXCompilerABI.cpp
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_31251.dir\Debug\\" /Fd"cmTC_31251.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_31251.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_31251.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_cc11d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CMakeCCompilerABI.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cc11d.dir\Debug\\" /Fd"cmTC_cc11d.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CMakeCCompilerABI.c"
+  cmTC_cc11d.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_cc11d.exe
+
+
+
+Determining if the include file malloc.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_69bc6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_69bc6.dir\Debug\\" /Fd"cmTC_69bc6.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_69bc6.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_69bc6.exe
+
+
+
+Determining if the _aligned_malloc exist passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_9e574.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckSymbolExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e574.dir\Debug\\" /Fd"cmTC_9e574.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  cmTC_9e574.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_9e574.exe
+
+
+File C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _aligned_malloc
+  return ((int*)(&_aligned_malloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_75ca0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_75ca0.dir\Debug\\" /Fd"cmTC_75ca0.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_75ca0.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_75ca0.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_c929b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c929b.dir\Debug\\" /Fd"cmTC_c929b.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_c929b.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_c929b.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_a06ce.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a06ce.dir\Debug\\" /Fd"cmTC_a06ce.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_a06ce.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_a06ce.exe
+
+
+
+Determining size of size_t passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_7b439.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_SIZE_T.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7b439.dir\Debug\\" /Fd"cmTC_7b439.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_SIZE_T.c"
+  cmTC_7b439.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_7b439.exe
+
+
+
+Determining size of unsigned long passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_4c720.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_UNSIGNED_LONG.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4c720.dir\Debug\\" /Fd"cmTC_4c720.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_UNSIGNED_LONG.c"
+  cmTC_4c720.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_4c720.exe
+
+
+
+Determining if files intrin.h exist passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_352a4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  HAVE_INTRIN_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_352a4.dir\Debug\\" /Fd"cmTC_352a4.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckIncludeFiles\HAVE_INTRIN_H.c"
+  cmTC_352a4.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_352a4.exe
+
+
+
+Determining if the include file assert.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_f0866.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f0866.dir\Debug\\" /Fd"cmTC_f0866.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_f0866.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_f0866.exe
+
+
+
+Determining if the include file fcntl.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_92795.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_92795.dir\Debug\\" /Fd"cmTC_92795.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_92795.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_92795.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_27a64.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_27a64.dir\Debug\\" /Fd"cmTC_27a64.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_27a64.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_27a64.exe
+
+
+
+Determining if the include file io.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_cc62f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cc62f.dir\Debug\\" /Fd"cmTC_cc62f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_cc62f.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_cc62f.exe
+
+
+
+Determining if the include file limits.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_51e23.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_51e23.dir\Debug\\" /Fd"cmTC_51e23.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_51e23.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_51e23.exe
+
+
+
+Determining if the include file memory.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_f1b1c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f1b1c.dir\Debug\\" /Fd"cmTC_f1b1c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_f1b1c.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_f1b1c.exe
+
+
+
+Determining if the include file search.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_6ec82.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6ec82.dir\Debug\\" /Fd"cmTC_6ec82.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_6ec82.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_6ec82.exe
+
+
+
+Determining if the include file string.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_12930.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_12930.dir\Debug\\" /Fd"cmTC_12930.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_12930.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_12930.exe
+
+
+
+Performing C SOURCE FILE Test C_HAS_inline succeeded with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_7fb51.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  src.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D C_HAS_inline /D inline=inline /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7fb51.dir\Debug\\" /Fd"cmTC_7fb51.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\src.c"
+  cmTC_7fb51.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_7fb51.exe
+
+
+Source file was:
+
+        typedef int foo_t;
+        static inline foo_t static_foo() {return 0;}
+        foo_t foo(){return 0;}
+        int main(int argc, char *argv[]) {return 0;}
+Determining size of signed short passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_9a4b7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_SIGNED_SHORT.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9a4b7.dir\Debug\\" /Fd"cmTC_9a4b7.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_SIGNED_SHORT.c"
+  cmTC_9a4b7.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_9a4b7.exe
+
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_d077f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_UNSIGNED_SHORT.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d077f.dir\Debug\\" /Fd"cmTC_d077f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_UNSIGNED_SHORT.c"
+  cmTC_d077f.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_d077f.exe
+
+
+
+Determining size of signed int passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_5ac30.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_SIGNED_INT.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ac30.dir\Debug\\" /Fd"cmTC_5ac30.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_SIGNED_INT.c"
+  cmTC_5ac30.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_5ac30.exe
+
+
+
+Determining size of unsigned int passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_b48e6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_UNSIGNED_INT.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b48e6.dir\Debug\\" /Fd"cmTC_b48e6.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_UNSIGNED_INT.c"
+  cmTC_b48e6.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_b48e6.exe
+
+
+
+Determining size of signed long passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_cac7c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_SIGNED_LONG.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cac7c.dir\Debug\\" /Fd"cmTC_cac7c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_SIGNED_LONG.c"
+  cmTC_cac7c.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_cac7c.exe
+
+
+
+Determining size of signed long long passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_c9b59.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_SIGNED_LONG_LONG.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c9b59.dir\Debug\\" /Fd"cmTC_c9b59.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_SIGNED_LONG_LONG.c"
+  cmTC_c9b59.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_c9b59.exe
+
+
+
+Determining size of unsigned long long passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_56b2c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_UNSIGNED_LONG_LONG.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_56b2c.dir\Debug\\" /Fd"cmTC_56b2c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_UNSIGNED_LONG_LONG.c"
+  cmTC_56b2c.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_56b2c.exe
+
+
+
+Determining size of unsigned char * passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_06db2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_UNSIGNED_CHAR_P.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_06db2.dir\Debug\\" /Fd"cmTC_06db2.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_UNSIGNED_CHAR_P.c"
+  cmTC_06db2.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_06db2.exe
+
+
+
+Determining size of ptrdiff_t passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_7b2ea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  SIZEOF_PTRDIFF_T.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7b2ea.dir\Debug\\" /Fd"cmTC_7b2ea.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckTypeSize\SIZEOF_PTRDIFF_T.c"
+  cmTC_7b2ea.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_7b2ea.exe
+
+
+
+Determining if the function setmode exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_15f06.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=setmode /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_15f06.dir\Debug\\" /Fd"cmTC_15f06.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_15f06.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_15f06.exe
+
+
+
+Determining if the function strchr exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_15752.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=strchr /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_15752.dir\Debug\\" /Fd"cmTC_15752.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_15752.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_15752.exe
+
+
+
+Determining if the function strrchr exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_003d1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=strrchr /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_003d1.dir\Debug\\" /Fd"cmTC_003d1.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_003d1.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_003d1.exe
+
+
+
+Determining if the function strstr exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_4140e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=strstr /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4140e.dir\Debug\\" /Fd"cmTC_4140e.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_4140e.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_4140e.exe
+
+
+
+Determining if the function strtol exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_c548f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=strtol /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c548f.dir\Debug\\" /Fd"cmTC_c548f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_c548f.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_c548f.exe
+
+
+
+Determining if the function strtol exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_12d16.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=strtol /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_12d16.dir\Debug\\" /Fd"cmTC_12d16.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_12d16.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_12d16.exe
+
+
+
+Determining if the function strtoull exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_c710b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=strtoull /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c710b.dir\Debug\\" /Fd"cmTC_c710b.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_c710b.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_c710b.exe
+
+
+
+Determining if the function lfind exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_a780f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D CHECK_FUNCTION_EXISTS=lfind /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a780f.dir\Debug\\" /Fd"cmTC_a780f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "\\fs-ispo\uvc\stud\429195\429195_10\ISRPO\cmake-3.24.1-windows-x86_64\cmake-3.24.1-windows-x86_64\share\cmake-3.24\Modules\CheckFunctionExists.c"
+  cmTC_a780f.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_a780f.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_SNPRINTF succeeded with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_f02de.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  src.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D HAVE_SNPRINTF /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f02de.dir\Debug\\" /Fd"cmTC_f02de.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\src.c"
+  cmTC_f02de.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_f02de.exe
+
+
+Source file was:
+
+#include <stdio.h>
+int main(void) {
+  char buf[10];
+  snprintf(buf, 10, "Test %d", 1);
+  return 0;
+}
+Determining if the include file stdlib.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_7bdf6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7bdf6.dir\Debug\\" /Fd"cmTC_7bdf6.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_7bdf6.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_7bdf6.exe
+
+
+
+Determining if the include file stdio.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_7e662.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7e662.dir\Debug\\" /Fd"cmTC_7e662.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_7e662.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_7e662.exe
+
+
+
+Determining if the include file math.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_81e9c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_81e9c.dir\Debug\\" /Fd"cmTC_81e9c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_81e9c.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_81e9c.exe
+
+
+
+Determining if the include file float.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_2f4af.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2f4af.dir\Debug\\" /Fd"cmTC_2f4af.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_2f4af.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_2f4af.exe
+
+
+
+Determining if the include file time.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_7f225.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7f225.dir\Debug\\" /Fd"cmTC_7f225.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_7f225.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_7f225.exe
+
+
+
+Determining if the include file stdarg.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_e2804.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e2804.dir\Debug\\" /Fd"cmTC_e2804.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_e2804.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_e2804.exe
+
+
+
+Determining if the include file ctype.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_58ad9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_58ad9.dir\Debug\\" /Fd"cmTC_58ad9.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_58ad9.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_58ad9.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_2ea29.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ea29.dir\Debug\\" /Fd"cmTC_2ea29.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_2ea29.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_2ea29.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_ae602.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ae602.dir\Debug\\" /Fd"cmTC_ae602.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_ae602.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_ae602.exe
+
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_db284.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_db284.dir\Debug\\" /Fd"cmTC_db284.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_db284.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_db284.exe
+
+
+
+Determining if files malloc.h exist passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_0e29f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  OPJ_HAVE_MALLOC_H.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0e29f.dir\Debug\\" /Fd"cmTC_0e29f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CheckIncludeFiles\OPJ_HAVE_MALLOC_H.c"
+  cmTC_0e29f.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_0e29f.exe
+
+
+
+Determining if the _aligned_malloc exist passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_f2d2b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckSymbolExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f2d2b.dir\Debug\\" /Fd"cmTC_f2d2b.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  cmTC_f2d2b.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_f2d2b.exe
+
+
+File C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _aligned_malloc
+  return ((int*)(&_aligned_malloc))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the include file mfapi.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_9819e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9819e.dir\Debug\\" /Fd"cmTC_9819e.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_9819e.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_9819e.exe
+
+
+
+Determining if the include file d3d11_4.h exists passed with the following output:
+Change Dir: C:/Users/429195-10/Desktop/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_d245d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine ўҐабЁЁ 16.11.2+f32259642 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.29.30146 ¤«п x64
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /MP /Od /Ob0 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d245d.dir\Debug\\" /Fd"cmTC_d245d.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue  /bigobj "C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_d245d.vcxproj -> C:\Users\429195-10\Desktop\Build\CMakeFiles\CMakeTmp\Debug\cmTC_d245d.exe
+
+
+
