@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace ISRPO_Lab9A
 {
@@ -21,10 +22,10 @@ namespace ISRPO_Lab9A
             MessageBox.Show(sender.ToString());
 
             rb2.IsChecked = true;
-            MessageBox.Show(e.Source.ToString());
+            MessageBox.Show(VisualTreeHelper.GetParent((DependencyObject)sender).ToString());
 
             rb3.IsChecked = true;
-            MessageBox.Show(e.OriginalSource.ToString());
+            MessageBox.Show(Application.Current.MainWindow.ToString());
         }
     }
 }

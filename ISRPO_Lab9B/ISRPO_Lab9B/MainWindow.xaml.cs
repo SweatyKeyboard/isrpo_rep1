@@ -33,29 +33,35 @@ namespace ISRPO_Lab9B
             InitializeComponent();
 
             _backgroundWorker.WorkerReportsProgress = true;
+            _backgroundWorker.WorkerSupportsCancellation = true;
             _backgroundWorker.DoWork += (a, b) =>
             {
                 if (_isGoingForward)
                 {
-                    while (_counter < _maxNumber)
+                    while (_counter < _maxNumber && !_backgroundWorker.CancellationPending)
                     {
                         _counter++;
                         Thread.Sleep(1);
                         _backgroundWorker.ReportProgress((int)((double)_counter / _maxNumber * 100));
                     }
-                    _isGoingForward = false;
+                    if (_counter == _maxNumber)
+                    {
+                        _isGoingForward = false;
+                    }
                 }
                 else
                 {
-                    while (_counter > 0)
+                    while (_counter > 0 && !_backgroundWorker.CancellationPending)
                     {
                         _counter--;
                         Thread.Sleep(1);
                         _backgroundWorker.ReportProgress((int)((double)_counter / _maxNumber * 100));
                     }
-                    _isGoingForward = true;
+                    if (_counter == 0)
+                    {
+                        _isGoingForward = true;
+                    }
                 }
-
                 
             };
 
@@ -78,7 +84,7 @@ namespace ISRPO_Lab9B
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            
+            _backgroundWorker.CancelAsync();
         }
     }
 }
